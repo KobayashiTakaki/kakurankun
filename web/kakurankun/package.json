@@ -1,0 +1,23 @@
+{
+  "name": "kakurankun",
+  "version": "1.0.0",
+  "description": "My fantastic Nuxt.js project",
+  "author": "kobayashitakaki",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "now-build": "nuxt build"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/pwa": "^2.6.0",
+    "moment": "^2.24.0",
+    "nuxt": "^2.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
